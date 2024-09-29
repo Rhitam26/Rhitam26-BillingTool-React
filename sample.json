@@ -1,0 +1,1 @@
+{"time": "03/09/2024 22:33", "invoice_id": "1725382985750", "products": [{"id": "11223344", "name": "product 1", "price": 100, "quantity": 2, "discount": 0, "total_price": 200}, {"id": "4455667788", "name": "product 2", "price": 200, "quantity": 1, "discount": 10, "total_price": 190}], "total_price": 390.0}
