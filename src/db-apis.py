@@ -9,8 +9,8 @@ import json
 from decimal import Decimal
 
 app = FastAPI()
-AWS_ACCESS_KEY=""
-AWS_SECRET_KEY=""
+AWS_ACCESS_KEY="AKIASWWZMPMPGGODJM4Z"
+AWS_SECRET_KEY="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"
 AWS_REGION="ap-south-1"
 # Initialize a DynamoDB client
 print("REGION ", AWS_REGION)
