@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "billingsoftware-432818",
+  "private_key_id": "247b1a52887f2c9b5827643344025c761a5e1ea8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCxupI0I4QKkSrZ\nhx1ByO9FoN0FH9yewihd7BYqXucW8OgmtQ77KVUqeMHbJowx1GgZc30k7xrqZdkw\nJR31kw/qDFLgGgRJfXWL4J6JSFKtys65WyFt03Tx6J0YifF8k017y1xnVkWfy0xn\n7JGmJpLkBeT1MXAxtH9YTMEirYMWRixIPRenBo04kEF+/YxzlGoeABFw6i+a+AZS\nKiEC9W6/RKHXQSSBg7qfVd5Y/N6N8q7ztcQoxlEQzh3JqQoiFecBGhPDjV/PIr+X\nJDIaRKp0ZFv9oqVHuIer2q5IdWzGV8c6FZ6nVFT4O8cG/N+Hizf35Ld/YIUciuRm\nLR4k8b4jAgMBAAECggEAQX+xLv7hxCUwxf8J9LsRFzeMDL3ryCRkzQxbNN1JzAYX\ngGBct4pJhUAArXu80gZmIO8TcT+fS0AitSAQtPawOEC3cDiWWOEgJ18t/gkF01+5\nJM1lefyijh58etUnhpIgzZ0qHjlIqnW5YFlqafGwU9GqSgSgxOiwv8F1sgqBE31G\nraX0FKi5rzqGklz6bjXu8WGNJdv8x/+TtVQajGicVGY/FYtgy8kV4PSYkyjinG74\nsEgpSSY1apaGNVNWCX39mjTrtXlTmh4hnYdAMmAUyHZEkkLpgWuDlgvJI3+lVM4l\nYw3s10gp45zIslsnuSzDrndaHy0ReHVeljEoBhcJ0QKBgQDeKFJDxzO34sBPyIT5\nVGQWsIY7RX8jN4Z5vhmJWLxsDdomAGTPD3cDgEsft/R8dvvzLYwsi+mfH5E/otHm\nK4ys/HbTucuqV4Oj0A4qNM/EZ8nkEMZ07C6CK0owFvwIHLKTXL9OPpZGROj8p4w+\nk2IGb22Z8NBYFLiYxiUDepxDUQKBgQDMzZ9wBFcb8sZ8hcmtdC5LY9i0mj5BEo/J\na2GexuXAF5T7XKVJtHzJE3kcFfb/VnlaVlCUw3cBKe3Ie6Z9tu3jKPCrH8bA2f3G\nGgmot+np1S3UlYsJppDytX+vjnrtNtVxf1w9f24hp4j9/XCzu3RnB9pS+iZIKMKy\nspE5qRPFMwKBgQC/vaVjAmdM6tR5B+RdHc1VF/6C4bSdvKrAIKcBuCjIShxieCyJ\n2hsqVmyAb9EAK+HBPSqiuA9nW2ONvQXU1vmPxEb67n0uBGKF3GidXP+F0N6bjS78\nc2ygxKQ/ZVcZ2Ur3jTFAYxxogcllZ2bQC3yreTjriMEJhLjegwYnPofoQQKBgQC+\nJZ8FEpKJ2VLdpB2GVJry1gYKUDbCleg32uHs17/SJFLnObIgh1lgGxtTrzT/Bptu\n+zqflAc2ZmZlwB/pEmE1ifpA9yTCQuKx/dS/99lOh+WgPSO01xg2r7qYFVIeUc3E\nLbpHQrvOtUykfJ0Z0k4Vpp3Wcnf+gRGbdd0NyuQXLwKBgAyUck4ClA8H1s94leK0\nLu9EJBNTBcgBULGeuvtBu5dwjzJ+GuOltddhLo1D1D50kAhKcYx3wzemWujPeyBz\nD++2D92mTyiGXxWuVjq5cKB9QEnLryDxSjY7S07z0AENaq2Auq09XQAM7yIuMOBY\nifa03kthY+JMxIEgakU1XB1A\n-----END PRIVATE KEY-----\n",
+  "client_email": "invoice-user@billingsoftware-432818.iam.gserviceaccount.com",
+  "client_id": "115497274221286669058",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/invoice-user%40billingsoftware-432818.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

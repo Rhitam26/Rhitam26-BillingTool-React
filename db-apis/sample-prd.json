@@ -1,0 +1,51 @@
+[
+    {
+        "bar_code_id": "77889900",
+        "product_name": "prod 8",
+        "price": "445",
+        "current_stock": "10",
+        "category": "Cat 3"
+    },
+    {
+        "bar_code_id": "11223344",
+        "product_name": "prod 2",
+        "price": "1344",
+        "current_stock": "4",
+        "category": "Cat 1"
+    },
+    {
+        "bar_code_id": "22334455",
+        "product_name": "prod 3",
+        "price": "4534",
+        "current_stock": "5",
+        "category": "Cat 2"
+    },
+    {
+        "bar_code_id": "66778899",
+        "product_name": "prod 7",
+        "price": "668",
+        "current_stock": "8",
+        "category": "Cat 2"
+    },
+    {
+        "bar_code_id": "44556677",
+        "product_name": "prod 5",
+        "price": "222",
+        "current_stock": "5",
+        "category": "Cat 2"
+    },
+    {
+        "bar_code_id": "33445566",
+        "product_name": "prod 4",
+        "price": "443",
+        "current_stock": "6",
+        "category": "Cat 3"
+    },
+    {
+        "bar_code_id": "55667788",
+        "product_name": "prod 6",
+        "price": "654",
+        "current_stock": "5",
+        "category": "Cat 1"
+    }
+]
